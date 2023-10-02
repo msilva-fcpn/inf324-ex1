@@ -1,0 +1,21 @@
+		#cabecera {
+			color:#054d1a;
+			background-color:#ebf5ee; 
+			width: 1024px; 
+			min-height: 50px; 
+			float: left;
+		}
+		.menu {
+			color: #054d1a;
+			background-color: #f2f2da; 
+			width: 200px; 
+			min-height: 200px; 
+			float: left;
+		}
+		#contenido {
+			color: #054d1a;
+			background-color: #daf2e6; 
+			width: 824px; 
+			min-height: 500px; 
+			float: left;
+		}
